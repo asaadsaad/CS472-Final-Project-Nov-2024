@@ -22,6 +22,7 @@ The requirements below are for the standalone project. Please refer to the addit
   
 ## Backend (Express) Technical Requirements
 * Create API endpoints to handle frontend requests and setup routes for different endpoints (e.g., GET, POST, PUT).
+* Create a middleware to verify the user registration state before allow access to the protected routes.
 * Use Express middleware for logging requests and handling errors.
 * Use `node:fs` to store and manage the policies as files on the file system.
 
