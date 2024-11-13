@@ -29,6 +29,7 @@ The requirements below are for the standalone project. Please refer to the addit
 ## Group Project Requirements (Does not apply to students who work standalone)
 Standlone students are welcome to work on these requirements, but will not receive credits. In addition to the previous requirements, groups must:
 * Allow users to add comments to policies. Multiple comments are allowed.
+* Create additional screen to show the policies posted by the current user.
 * Implement a search feature to allow guests/users to search for a policy by title.
 * In addition to displaying policies by number of votes, provide guests/users the ability to filter policies by category, and by date latest to oldest.
 
