@@ -30,7 +30,7 @@ You will build a full-stack web application using React for the frontend and Exp
 * Use `node:fs` to store and manage the policies as files on the file system. If you have strong DBMS skills (for example [MySQL](https://www.npmjs.com/package/mysql2), you may use it for storage instead of node file system.
 
 ## Group Project Requirements (Does not apply to students who work standalone)
-Standlone students are welcome to work on these requirements, but will not be evaluated or receive credits. If you wish to work as a group, please send me your team members' names before 12:00 PM noon of Nov 15. Teams must have two students only.    
+Standlone students are welcome to work on these requirements, but will not be evaluated or receive credits. If you wish to work as a group, please send me your team members' names before 12:00 PM noon of Nov 15. Teams must have two students only.      
 In addition to the previous requirements, groups must complete the following requirements:
 * Allow users to add comments to policies. Multiple comments are allowed.
 * Create additional screen to show the policies posted by the current user.
