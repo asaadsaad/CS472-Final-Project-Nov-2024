@@ -1,5 +1,5 @@
 ## CS472-Final-Project-November-2024 
-### Policies for the Students: Policies for a Better Academic Experience
+### Policies for the Students: Policies for a Better Campus Experience
 The requirements below are for the standalone project. For groups, please refer to the additional requirements section below.  
   
 You will build a full-stack web application using React for the frontend and Express for the backend. The project will focus on state management, API interactions (REST), and component-based architecture.
