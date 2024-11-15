@@ -3,14 +3,13 @@
 The requirements below are for the standalone project. For groups, please refer to the additional requirements section below.  
   
 You will build a full-stack web application using React for the frontend and Express for the backend. The project will focus on state management, API interactions (REST), and component-based architecture.
-* The application displays policies from all users by academic year.
+* The application displays policies from all users by calendar year, sorted by votes in descending order.
 * The application should provide ways to browse previous academic years (history).
 * Guests can browse policies, but cannot add a new policy.
 * Implement signup/signin and save the user state at the client.
 * Only users can contribute and submit a new policy.
 * A policy consists of a title, description, owner, date, and category (General, Food, Library, Meditation, Education, Visa & Travel, Students Lounge.. etc).
 * A policy can be up-voted by users, once per policy. Guests cannot up-vote.
-* Policies are sorted by vote in descending order.
 * For the protected actions (Add policy, Up-Vote), implement a middleware at the server to verify the user registration state.
   
 ## Frontend (React) Technical Requirements
