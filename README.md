@@ -11,7 +11,7 @@ You will build a full-stack web application using React for the frontend and Exp
 * A policy consists of a title, description, owner, date, and category (General, Food, Library, Meditation, Education, Visa & Travel, Students Lounge.. etc).
 * A policy can be up-voted by users, once per policy. Guests cannot up-vote.
 * Policies are sorted by vote in descending order.
-* For the protected actions (Add policy, Up-Vote, Down-Vote), implement a middleware at the server to verify the user registration state.
+* For the protected actions (Add policy, Up-Vote), implement a middleware at the server to verify the user registration state.
   
 ## Frontend (React) Technical Requirements
 * Create a well-structured component hierarchy.
